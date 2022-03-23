@@ -1,4 +1,4 @@
-# testeCommit
+# GFT Quality Assurance #1
 
 Exercício - Metodos Java
 Criar uma aplicação que resolva as seguintes situações:
